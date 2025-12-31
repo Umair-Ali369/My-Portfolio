@@ -8,12 +8,6 @@ This portfolio focuses on **practical applications**, clean UI, reusable compone
 
 ---
 
-## 🚀 Live Website
-https://your-portfolio.vercel.app
-
-
----
-
 ## 👨‍💻 About Me
 
 I am a **Frontend Web Developer** with hands-on experience building interactive, responsive, and feature-rich web applications using **React and modern JavaScript**.
