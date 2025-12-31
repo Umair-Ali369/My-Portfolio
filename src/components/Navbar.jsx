@@ -4,7 +4,6 @@ import My_logo from "../assets/My_logo.png";
 import { motion, AnimatePresence } from "framer-motion";
 import { HiMenuAlt3, HiX } from "react-icons/hi";
 import { NavBar } from "../Style/My_Portfolio_Style";
-import my_Cv from "../../public/my_Cv.pdf";
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
